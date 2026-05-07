@@ -1,3 +1,7 @@
+# Sony WH-1000XM6 Scrollytelling Experience
+
+**Live Demo:** [https://sony-landing-page-olive.vercel.app](https://sony-landing-page-olive.vercel.app)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
