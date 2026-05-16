@@ -17,7 +17,7 @@ export default function Home() {
         The StorytellingOverlay provides the 400vh scroll space 
         and the text layers that animate in and out over the canvas.
       */}
-      <div className="absolute top-0 left-0 w-full z-10 pointer-events-none">
+      <div className="relative w-full z-10 pointer-events-none -mt-[100vh]">
         <StorytellingOverlay />
       </div>
 
